@@ -65,7 +65,7 @@ const App = () => (
 export default App;
 
 // package.json
-// expo init house-listing
+// expo init real-time-messaging
 // expo install react-navigation react-navigation-stack react-navigation-tabs
 // expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 // expo install lottie-react-native
